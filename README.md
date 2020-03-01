@@ -22,6 +22,6 @@ All spaces and other values other than '1' are ignored.
 
 - Clone this repository
 - Execute the **make** command
-- (Optionnal : **make clean** to clear useless files)
+- (Optional : **make clean** to clear useless files)
 - Execute the game by using ./my_runner map.txt
 - Have fun !
